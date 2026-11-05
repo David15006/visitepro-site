@@ -1,0 +1,4 @@
+# GitHub Pages : ces fichiers restent dans le dépôt mais ne sont pas publiés sur le site.
+exclude:
+  - DEPLOY.md
+  - README.md
